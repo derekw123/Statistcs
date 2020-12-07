@@ -1,0 +1,10 @@
+C:\Users\Winfi\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Winfi\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\Winfi\source\repos\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.csprojAssemblyReference.cache
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.Form1.resources
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.cache
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\Winfi\source\repos\Statistics\Statistics\obj\Debug\Statistics.pdb
